@@ -1,2 +1,4 @@
 hello, my name is mayank sharma and I'm an Engineering student at Ajay Kumar Garg Engineering College
+skills: c,Java
+hobbies:reading novel
 
